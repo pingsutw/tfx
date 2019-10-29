@@ -4,6 +4,7 @@
 ## Major Features and Improvements
 
 ## Bug fixes and other changes
+*   Code clean up for the CMLE serving custom executor
 
 ### Deprecations
 
